@@ -1,3 +1,13 @@
 .navbar{
    background-color: midnightblue
 }
+#search{
+    margin-bottom: 15px;
+}
+#reviewheader{
+    color: deepskyblue;
+}
+
+#location{
+    color: darkslateblue;
+}
